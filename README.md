@@ -1,5 +1,8 @@
 # Gym_Management_System
 
+
+Demo vedio-[https://drive.google.com/file/d/1gh--KNjn_nbQRFfZPqJP8_SKRbmWFkEs/view?usp=drive_link]
+
 🏋️‍♂️ Gym Management System
 A Java-based Gym Management System developed using NetBeans and MySQL for efficiently handling gym operations, including member management, trainer assignments, workout plans, payments, and attendance tracking.
 
